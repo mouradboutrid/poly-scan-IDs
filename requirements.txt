@@ -1,0 +1,12 @@
+streamlit
+python-doctr
+ultralytics
+python-Levenshtein
+torch
+torchvision
+tensorflow
+opencv-python
+Pillow
+matplotlib
+numpy
+scikit-learn
